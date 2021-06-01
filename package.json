@@ -7,6 +7,10 @@
     "dev": "DEBUG=express-generator:* nodemon ./bin/www",
     "dev-windows": "nodemon ./bin/www"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MMarioB/serverPlesk.git"
+  },
   "dependencies": {
     "body-parser": "^1.19.0",
     "cookie-parser": "^1.4.5",
